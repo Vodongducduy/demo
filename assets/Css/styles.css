@@ -160,7 +160,7 @@ html {
 #slider {
     padding-top: 50%;
     margin-top: 46px;
-    background:url('/assets/Imge/slider1_chicago.jpg') top center / cover no-repeat;
+    background:url('assets/Imge/slider1_chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .slider-project {
